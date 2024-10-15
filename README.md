@@ -3,12 +3,17 @@
 <table>
   <thead>
     <tr>
-      <th>Codeforces</th>
-      <th>Dont_Cry</th>
-      <th>1049</th>
+      <th>Online Judge</th>
+      <th>Handle</th>
+      <th>Solve Count</th>
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>Codeforces</td>
+      <td>Dont_Cry</td>
+      <td>1049</td>
+    </tr>
     <tr>
       <td>LeetCode</td>
       <td>Hafizahmed_789</td>
