@@ -55,8 +55,9 @@
       <td>56</td>
     </tr>
     <tr>
-      <th colspan="2">Total</th>
-      <th>1391</th>
+      <td>Total</td>
+      <td></td>
+      <td>1391</td>
     </tr>
   </tbody>
 </table>
