@@ -12,12 +12,12 @@
     <tr>
       <td>Codeforces</td>
       <td>Dont_Cry</td>
-      <td>1049</td>
+      <td>1057</td>
     </tr>
     <tr>
       <td>LeetCode</td>
       <td>Hafizahmed_789</td>
-      <td>110</td>
+      <td>121</td>
     </tr>
     <tr>
       <td>AtCoder</td>
@@ -57,9 +57,9 @@
     <tr>
       <td>Total</td>
       <td></td>
-      <td>1391</td>
+      <td>1409</td>
     </tr>
   </tbody>
 </table>
 
-<p>Last Updated: 15 October, 2024</p>
+<p>Last Updated: 21 October, 2024</p>
