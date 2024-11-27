@@ -11,13 +11,13 @@
   <tbody>
     <tr>
       <td>Codeforces</td>
-      <td>Dont_Cry</td>
-      <td>1057</td>
+      <td><a href = "https://codeforces.com/profile/Dont_Cry">Dont_Cry<a></td>
+      <td>1063</td>
     </tr>
     <tr>
       <td>LeetCode</td>
-      <td>Hafizahmed_789</td>
-      <td>121</td>
+      <td><a href = "https://leetcode.com/u/Hafizahmed_789/">Hafizahmed_789<a></td>
+      <td>174</td>
     </tr>
     <tr>
       <td>AtCoder</td>
@@ -57,9 +57,9 @@
     <tr>
       <td>Total</td>
       <td></td>
-      <td>1409</td>
+      <td>1469</td>
     </tr>
   </tbody>
 </table>
 
-<p>Last Updated: 21 October, 2024</p>
+<p>Last Updated: 27 November, 2024</p>
