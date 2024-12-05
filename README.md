@@ -12,12 +12,12 @@
     <tr>
       <td>Codeforces</td>
       <td><a href = "https://codeforces.com/profile/Dont_Cry">Dont_Cry<a></td>
-      <td>1063</td>
+      <td>1070</td>
     </tr>
     <tr>
       <td>LeetCode</td>
       <td><a href = "https://leetcode.com/u/Hafizahmed_789/">Hafizahmed_789<a></td>
-      <td>174</td>
+      <td>203</td>
     </tr>
     <tr>
       <td>AtCoder</td>
@@ -57,7 +57,7 @@
     <tr>
       <td>Total</td>
       <td></td>
-      <td>1469</td>
+      <td>1505</td>
     </tr>
   </tbody>
 </table>
