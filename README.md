@@ -62,4 +62,4 @@
   </tbody>
 </table>
 
-<p>Last Updated: 27 November, 2024</p>
+<p>Last Updated: 05 December, 2024</p>
